@@ -16,7 +16,7 @@ Upon completion of the analysis, we can see a variety of different outcomes.  Th
 
 ### Number of Fares, Length of Rides, Number of Drivers by Area
 
-![Fares, Drives, Ride Length by Area](“analysis/fig1.png)
+![Fares, Drives, Ride Length by Area](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig1.png)
 
 As we can see in the above image there tends to be more rides in the urban areas than in either the suburban or rural areas, and more rides in the suburban than in the rural areas.  The opposite is true however with regards to the length of the rides.  The rides are longest in the rural, second longest in suburban and the shortest in the urban areas.
 
@@ -24,43 +24,43 @@ The size of the dot in the graph indicates the number of drivers.  By this we ca
 
 ### Number of Rides
 
-![Rides by City Type](“analysis/fig2.png)
+![Rides by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig2.png)
 
 As indicated above the urban areas have the most rides, followed by suburban and the rural areas have least number of rides.  We can see here that also the urban has the greatest variation in the number of rides and even contains an outlier.  The suburban also has greater variation in the number of riders than the rural which is relatively consistent.
 
 ### Fares
 
-![Fares by City Type](“analysis/fig3.png)
+![Fares by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig3.png)
 
 The urban areas have shortest rides and lowest fares, while the suburban rides are a bit longer, and the rural has the longest rides out of any area.  Interestingly, there is also more variation in the rural rides.  It seems that some people go very far in their rides while the riders in urban areas go relatively similar distances.
 
 ### Number of Drivers
 
-![Drivers by City Type](“analysis/fig4.png)
+![Drivers by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig4.png)
 
 The urban areas tend to have the most drivers, followed by suburban, and finally the rural areas which have the least number of drivers.  It is also interesting to note that there is a much greater amount of variation in the number of drivers in the urban areas while the rural has a more consistent number of drivers.
 
 ### Percent Fares by City Type
 
-![Percent Fares by City Type](“analysis/fig5.png)
+![Percent Fares by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig5.png)
 
 The vast majority of the fares, over 62%, come from urban areas.  Suburban areas also constitute over 30%, while rural areas make up only around 7% of the overall fares.
 
 ### Percent Rides by City Type
 
-![Percent Rides by City Type](“analysis/fig6.png)
+![Percent Rides by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig6.png)
 
 The vast majority of the rides, over 68%, come from urban areas.  Suburban areas also constitute over 26%, while rural areas make up only around 5% of the overall rides.
 
 ### Percent Drivers by City Type
 
-![Percent Drivers by City Type](“analysis/fig7.png)
+![Percent Drivers by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig7.png)
 
 Almost 87% of the drivers work in urban areas, and 12% work in suburban areas, while less than 1% of drivers work in rural areas.
 
 ### Total Fares by City Type
 
-![Fares by City Type](“analysis/fig8.png)
+![Fares by City Type](https://github.com/ForTheGold/PyBer_Analysis/blob/main/Analysis/Fig8.png)
 
 We can see the same trends in the graph above.  Most of the fares occur in urban areas, followed by suburban and finally rural.
 
